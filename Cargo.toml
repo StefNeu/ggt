@@ -1,0 +1,12 @@
+[package]
+name = "ggt"
+version = "0.1.0"
+authors = ["Steffen Neumann <steffen.neumann@gmx.net>"]
+edition = "2021"
+description = "calculate the ggt"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gcd_ = "0.1.0"
