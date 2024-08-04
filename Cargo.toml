@@ -1,6 +1,6 @@
 [package]
 name = "ggt"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Steffen Neumann <steffen.neumann@gmx.net>"]
 edition = "2021"
 description = "calculate the ggt"
