@@ -1,5 +1,13 @@
 use gcd_::gcd;
 
+///Calculates the GCD, regardless of the order in which the numbers are given.
+///
+/// # Example
+///
+/// ggt(24, 4)
+/// ggt(6, 18)
+///
+/// the function return a Result
 pub fn ggt(first: i128, second: i128) -> Result<i128, &'static str> {
     gcd(first, second)
 }
